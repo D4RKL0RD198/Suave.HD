@@ -1,15 +1,6 @@
-Suave.HD
+Suave HD
 ========
-
 Suave HD 6 By: Pat974, D4RKL0RD198, The Raptor, Bli625, Finkle316
-I am still using Pat974's original GUI I have only modified it to work with iOS6.X and iPhone 5. I have all of the GUI finished up so that everybody enjoys it this time around as it is now using grey & black to match the rest of the GUI. I have a way to Auto-Theme small app icons so the settings app and everywhere else in iOS that uses small icons does not have that black boarder that I have seen people having problems with. 
-[img]http://img.ly/system/uploads/006/855/435/large_Q1ay-TkoFa5TPsyl9PH-XcoX7DgajzEgxSM-JDG88dg.png[/img][img]http://img.ly/system/uploads/006/855/598/large_Photo%202013-02-17%204%2052%2046%20PM.png[/img]
-[u][b]Auxo[/b][/u]
-I have now fully themed every part of the Auxo switcher with the help of The Raptor's PSD's
-[img]http://i1320.photobucket.com/albums/u525/D4RKL0RD198/AuxoSwitcher_zpsabdcda17.png[/img]
-[u][b]Music & Video Apps[/b][/u]
-The Music app and anything that uses the media player resources has been fixed up (the faint white line at the top of the music app is the movement sensor GUI but that isn't of concern)
-[img]http://img.ly/system/uploads/006/855/571/large_Photo%202013-02-14%206%2053%2049%20PM.png[/img][img]http://img.ly/system/uploads/006/855/605/large_Photo%202013-02-14%207%2020%2051%20PM.png[/img]
-[u][b]General GUI and Other Stock Apps[/b][/u]
-I have fixed the "app well lock" slider so it fits the small app icons for lockscreen notifications and I have also fixed the slider to work with the "well lock" image.
-[img]http://img.ly/system/uploads/006/855/580/large_Photo%202013-02-17%204%2059%2020%20PM.png[/img][img]http://img.ly/system/uploads/006/855/588/large_Photo%202013-02-17%204%2059%2023%20PM.png[/img][img]http://img.ly/system/uploads/006/855/612/large_Photo%202013-02-14%206%2054%2054%20PM.png[/img][img]http://i1320.photobucket.com/albums/u525/D4RKL0RD198/Photo2013-02-1745139PM_zpsece5a584.png[/img]
+
+Credit to the original theme goes to Thyraz as he was the
+original Suave theme maker. Credit and a very big thanks also goes to the Suave HD creator Pat974 as he had ported Suave to iOS 4.x+ and Retina Display devices and has made majority of the icons within the theme. I only helped port it to iOS 6.X and iPhone 5. This theme is compatible with the following devices iPhone 4, 4S, 5, and iPod Touch 4 & 5. This is a full compilation of the Suave HD theme, so most icons from both the AppStore (exception the WhatsApp app is fully themed) and the Cydia Store are themed, there is 760+ total apps and counting. Pat's new GUI and my additions are included within this compilation. Most of the stock apps are fully themed as well they include: Calendar, Clock, Calculator, Contacts, Mail, Photos (Partially), Compass, Voice Memos, Music & Videos, Safari, Weather, Messages, and Phone. I have included a SbSettings (Pat), Auxo Switcher (Pat & I) & Velox (uncredited right now). A special thanks to all of the icon creators such as Pat974, The Raptor, Tundra, Bli625, Finkle316, DWALLS90, maxims, and nienque. Also another special thanks to The Raptor for his help with some of the GUI such as the switches in apps :) . For the wallpaper seen in some of the screenshots it is Folds by Delta909 (DeviantART). Updates and extra icons can be found on my theme thread at MacThemes.net (down currently for reasons unknown)
