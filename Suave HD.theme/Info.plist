@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BadgeStyle</key>
+	<string>padding-left: 0; padding-bottom: 2; font-size: 12px; color: White; text-shadow: rgba(255,255,255,0.5) 0px 0px 0px;</string>
+	<key>CalendarIconDateStyle</key>
+	<string>color: rgba(0,0,0,0.75); padding-top: 6; padding-right: 1; font-size: 28;</string>
+	<key>CalendarIconDayStyle</key>
+	<string>color: White; padding-top: 3;</string>
+</dict>
+</plist>
